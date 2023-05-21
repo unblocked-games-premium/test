@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FlyCarStunt2",
+"dataUrl": "FlyCarStunt2.data.unityweb",
+"asmCodeUrl": "FlyCarStunt2.asm.code.unityweb",
+"asmMemoryUrl": "FlyCarStunt2.asm.memory.unityweb",
+"asmFrameworkUrl": "FlyCarStunt2.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "FlyCarStunt2.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
